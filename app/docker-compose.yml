@@ -13,6 +13,5 @@ services:
       - php
     ports:
       - 80:80
-~                                                                                                                                              
-~                                                                                                                                              
-~              
+                                                                                                                                              
+                                                                                                                                                      
